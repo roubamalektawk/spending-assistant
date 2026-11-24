@@ -1,0 +1,61 @@
+date,merchant,category,amount,currency
+2026-01-02,Spinneys,Groceries,84.35,USD
+2026-01-03,Uber,Transport,6.50,USD
+2026-01-05,Alfa Telecom,Bills,27.50,USD
+2026-01-07,Barbar,Restaurants,12.75,USD
+2026-01-09,Total Station,Transport,45.00,USD
+2026-01-10,Netflix,Entertainment,9.99,USD
+2026-01-12,EDL,Bills,58.40,USD
+2026-01-14,Carrefour,Groceries,112.60,USD
+2026-01-16,Kahwet Leila,Restaurants,34.20,USD
+2026-01-18,Pharmacie Mazen,Health,18.90,USD
+2026-01-20,Ogero,Bills,22.00,USD
+2026-01-22,ABC Mall,Shopping,145.00,USD
+2026-01-24,Uber,Transport,8.25,USD
+2026-01-27,Spinneys,Groceries,67.80,USD
+2026-01-30,Grand Cinemas,Entertainment,16.00,USD
+2026-02-01,Uber,Transport,5.75,USD
+2026-02-03,Spinneys,Groceries,92.15,USD
+2026-02-05,Alfa Telecom,Bills,27.50,USD
+2026-02-07,Tawlet,Restaurants,48.00,USD
+2026-02-08,Total Station,Transport,42.50,USD
+2026-02-10,Netflix,Entertainment,9.99,USD
+2026-02-11,EDL,Bills,63.10,USD
+2026-02-13,Barbar,Restaurants,9.50,USD
+2026-02-14,Kahwet Leila,Restaurants,72.40,USD
+2026-02-17,Carrefour,Groceries,104.30,USD
+2026-02-19,Clemenceau Medical Center,Health,120.00,USD
+2026-02-20,Ogero,Bills,22.00,USD
+2026-02-22,Uber,Transport,11.40,USD
+2026-02-25,ABC Mall,Shopping,89.99,USD
+2026-02-27,Spinneys,Groceries,55.60,USD
+2026-03-02,Carrefour,Groceries,98.45,USD
+2026-03-04,Barbar,Restaurants,14.25,USD
+2026-03-05,Alfa Telecom,Bills,27.50,USD
+2026-03-06,Uber,Transport,7.10,USD
+2026-03-08,Total Station,Transport,47.80,USD
+2026-03-10,Netflix,Entertainment,9.99,USD
+2026-03-12,EDL,Bills,51.75,USD
+2026-03-13,Pharmacie Mazen,Health,26.40,USD
+2026-03-15,Spinneys,Groceries,76.90,USD
+2026-03-18,Grand Cinemas,Entertainment,22.00,USD
+2026-03-20,Ogero,Bills,22.00,USD
+2026-03-21,ABC Mall,Shopping,210.50,USD
+2026-03-24,Kahwet Leila,Restaurants,29.80,USD
+2026-03-27,Uber,Transport,9.60,USD
+2026-03-30,Spinneys,Groceries,61.25,USD
+2026-04-01,Uber,Transport,6.80,USD
+2026-04-03,Spinneys,Groceries,88.70,USD
+2026-04-05,Alfa Telecom,Bills,27.50,USD
+2026-04-06,Tawlet,Restaurants,52.00,USD
+2026-04-08,Total Station,Transport,44.20,USD
+2026-04-10,Netflix,Entertainment,9.99,USD
+2026-04-11,EDL,Bills,47.30,USD
+2026-04-13,Barbar,Restaurants,11.50,USD
+2026-04-15,Carrefour,Groceries,119.85,USD
+2026-04-17,Clemenceau Medical Center,Health,85.00,USD
+2026-04-20,Ogero,Bills,22.00,USD
+2026-04-22,ABC Mall,Shopping,64.75,USD
+2026-04-24,Pharmacie Mazen,Health,14.60,USD
+2026-04-26,Grand Cinemas,Entertainment,18.00,USD
+2026-04-29,Kahwet Leila,Restaurants,38.90,USD
