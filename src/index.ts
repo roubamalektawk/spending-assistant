@@ -16,4 +16,4 @@ async function main() {
   console.log('Tokens:', result.usage);
 }
 
-main().catch(console.error);
+main().catch((err) => console.error('Error:', err.message));
